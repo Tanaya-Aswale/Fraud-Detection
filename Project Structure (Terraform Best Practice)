@@ -1,0 +1,11 @@
+fraud-detection-terraform/
+│
+├── main.tf
+├── provider.tf
+├── variables.tf
+├── iam.tf
+├── s3.tf
+├── kinesis.tf
+├── dynamodb.tf
+├── lambda.tf
+└── outputs.tf
